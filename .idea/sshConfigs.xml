@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ssh-princia.alwaysdata.net" id="c52e7b9e-3980-466e-a5c7-35d4fdc69982" port="22" nameFormat="DESCRIPTIVE" username="princia" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db6cce64-7e02-41af-b76f-0c190033ecbc" name="princia" url="http://princia.alwaysdata.net">
+        <fileTransfer rootFolder="/home/princia/www" accessType="SFTP" host="ssh-princia.alwaysdata.net" port="22" sshConfigId="c52e7b9e-3980-466e-a5c7-35d4fdc69982" sshConfig="princia@ssh-princia.alwaysdata.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
